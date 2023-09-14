@@ -1,0 +1,14 @@
+[
+{
+"relation": [
+"delegate_permission/common.handle_all_urls"
+],
+"target": {
+"namespace": "android_app",
+"package_name": "com.example.saransa",
+"sha256_cert_fingerprints": [
+"BE:2A:2B:1D:9E:D8:7B:C2:34:1B:71:D2:41:0C:3E:73:34:99:7B:AB:FE:6C:4B:FE:17:F8:C5:DC:60:AC:62:1B"
+]
+}
+}
+]
